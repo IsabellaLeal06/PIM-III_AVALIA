@@ -68,12 +68,11 @@ Essas atividades representam a modelagem estrutural e funcional da plataforma.
 | MD01 | Diagrama de Casos de Uso | Representação das interações do sistema | Alta |
 | MD02 | Diagrama de Classes | Modelagem das entidades e relacionamentos | Alta |
 | MD03 | Diagrama de Sequência | Fluxo de execução das funcionalidades | Média |
-| MD04 | Diagrama de Implantação | Representação da arquitetura do sistema | Média |
-| MD05 | Fluxo de Usuário | Navegação dos usuários na plataforma | Alta |
-| MD06 | Modelo Conceitual (MER) | Estrutura conceitual do banco de dados | Alta |
-| MD07 | Modelo Lógico | Estrutura lógica das tabelas | Alta |
-| MD08 | Diagrama Entidade-Relacionamento (DER) | Representação gráfica do banco de dados | Alta |
-| MD09 | Dicionário de Dados | Documentação das tabelas e atributos | Média |
+| MD04 | Fluxo de Usuário | Navegação dos usuários na plataforma | Alta |
+| MD05 | Modelo Conceitual (MER) | Estrutura conceitual do banco de dados | Alta |
+| MD06 | Modelo Lógico | Estrutura lógica das tabelas | Alta |
+| MD07 | Diagrama Entidade-Relacionamento (DER) | Representação gráfica do banco de dados | Alta |
+| MD08 | Dicionário de Dados | Documentação das tabelas e atributos | Média |
 
 Essas atividades garantem organização e padronização da estrutura do sistema.
 
