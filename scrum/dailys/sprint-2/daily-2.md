@@ -125,7 +125,7 @@
 
 # Próxima Daily
 
-**Data prevista:** 16/04/2026  
+**Data prevista:** 11/04/2026  
 
 ### Objetivos da próxima atualização
 
