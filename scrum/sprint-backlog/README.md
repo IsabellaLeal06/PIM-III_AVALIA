@@ -10,8 +10,8 @@ Esta pasta contém os backlogs de cada sprint do projeto Avalia+, detalhando as 
 |---------|--------|--------|
 | `sprint-1-backlog.md` | Sprint 1 – Estrutura Inicial | ✅ Concluída |
 | `sprint-2-backlog.md` | Sprint 2 – Modelagem do Sistema | ✅ Concluída |
-| `sprint-3-backlog.md` | Sprint 3 – Desenvolvimento das Funcionalidades | 🔄 Em andamento |
-| `sprint-4-backlog.md` | Sprint 4 – Análise e Resultados | 🔲 Pendente |
+| `sprint-3-backlog.md` | Sprint 3 – Desenvolvimento das Funcionalidades | ✅ Concluída |
+| `sprint-4-backlog.md` | Sprint 4 – Análise e Resultados | 🔲 Em andamento |
 
 ---
 
