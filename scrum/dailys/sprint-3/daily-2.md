@@ -1,6 +1,6 @@
 # Registro da Daily – Projeto Avalia+
 
-**Data:** 07/05/2026  
+**Data:** 20/04/2026  
 **Formato:** Reunião assíncrona (Discord)  
 **Sprint:** Sprint 3  
 
@@ -122,4 +122,4 @@
 
 # Próxima Daily
 
-**Data prevista:** 14/05/2026
+**Data prevista:** 24/04/2026
