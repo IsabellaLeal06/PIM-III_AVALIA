@@ -3,7 +3,7 @@
 ## Sprint 2 – Modelagem do Sistema
 
 **Data:** Abril de 2026  
-**Duração da Sprint:** 3 semanas  
+**Duração da Sprint:** 4 semanas  
 
 ---
 
