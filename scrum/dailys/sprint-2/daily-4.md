@@ -1,6 +1,6 @@
 # Registro da Daily – Projeto Avalia+
 
-**Data:** 23/04/2026  
+**Data:** 13/04/2026  
 **Formato:** Reunião assíncrona (Discord)  
 **Sprint:** Sprint 2  
 **Responsável pela condução:** Isabella Santos Leal (Scrum Master)
@@ -125,7 +125,7 @@
 
 # Próxima Daily
 
-**Data prevista:** 30/04/2026  
+**Data prevista:** 16/04/2026  
 
 ### Objetivos da próxima atualização
 
