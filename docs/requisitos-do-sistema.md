@@ -87,7 +87,7 @@ O sistema deve permitir que o usuário visualize suas **informações de perfil*
 
 ## 2. Requisitos Não Funcionais
 
-Os requisitos não funcionais descrevem as características de qualidade do sistema, incluindo aspectos de segurança, desempenho e usabilidade.
+Os requisitos não funcionais descrevem as características de qualidade do sistema, incluindo aspectos de segurança, desempenho e usabilidade. 
 
 ---
 
