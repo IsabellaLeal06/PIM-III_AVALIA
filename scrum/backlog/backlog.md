@@ -48,14 +48,16 @@ Esses itens representam as funcionalidades principais da plataforma Avalia+.
 |---|---|---|---|
 | PB01 | Autenticação de usuários | Permitir login utilizando e-mail e senha | Alta |
 | PB02 | Cadastro de usuários | Gerenciamento de usuários (Aluno, Professor e Administrador) | Alta |
-| PB03 | Gerenciamento de questões | Cadastro, edição e exclusão de questões | Alta |
-| PB04 | Geração automática de simulados | Seleção aleatória de questões para simulados | Alta |
-| PB05 | Realização de simulados | Permitir realização de simulados online | Alta |
-| PB06 | Correção automática | Correção automática após finalização | Alta |
-| PB07 | Histórico de simulados | Armazenamento de simulados realizados | Média |
-| PB08 | Relatórios de desempenho | Relatórios individuais e por turma | Média |
-| PB09 | Dashboards de desempenho | Indicadores visuais de desempenho | Média |
-| PB10 | Controle de permissões | Restrição de acesso conforme perfil do usuário | Alta |
+| PB03 | Gerenciamento de questões | Cadastro, edição e exclusão de questões por disciplina | Alta |
+| PB04 | Gerenciamento de disciplinas | Cadastro, edição e exclusão de disciplinas | Alta |
+| PB05 | Gerenciamento de turmas | Criação, edição, exclusão e vinculação de professores e alunos | Alta |
+| PB06 | Geração automática de simulados | Gerar simulados automáticos com quantidade configurável de questões | Alta |
+| PB07 | Realização de simulados | Permitir realização de simulados online | Alta |
+| PB08 | Correção automática | Correção automática após finalização | Alta |
+| PB09 | Histórico de simulados | Armazenamento de simulados realizados | Média |
+| PB10 | Dashboard de desempenho por turma | Indicadores de desempenho para professores | Média |
+| PB11 | Painel de indicadores administrativos | Indicadores gerais da plataforma | Média |
+| PB12 | Controle de permissões | Restrição de acesso conforme perfil do usuário | Alta |
 
 ---
 
@@ -66,7 +68,7 @@ Essas atividades representam a modelagem estrutural e funcional da plataforma.
 | ID | Atividade | Descrição | Prioridade |
 |---|---|---|---|
 | MD01 | Diagrama de Casos de Uso | Representação das interações do sistema | Alta |
-| MD02 | Diagrama de Classes | Modelagem das entidades e relacionamentos | Alta |
+| MD02 | Diagrama de Classes | Modelagem das entidades e relacionamentos do sistema (backend C#) | Alta |
 | MD03 | Diagrama de Sequência | Fluxo de execução das funcionalidades | Média |
 | MD04 | Fluxo de Usuário | Navegação dos usuários na plataforma | Alta |
 | MD05 | Modelo Conceitual (MER) | Estrutura conceitual do banco de dados | Alta |
@@ -130,31 +132,33 @@ Desenvolver a modelagem estrutural e conceitual da plataforma.
 
 ---
 
-## Sprint 3 – Desenvolvimento das Funcionalidades
+## Sprint 3 – Desenvolvimento Inicial da Plataforma
 
 ### Objetivo
-Implementar as funcionalidades principais da plataforma.
+Desenvolver a estrutura inicial da plataforma e das funcionalidades principais do sistema.
 
 ### Atividades
-- Sistema de login
-- Cadastro de usuários
-- Banco de questões
-- Geração automática de simulados
-- Interface dos simulados
+- Implementação do sistema de login
+- Cadastro e gerenciamento de usuários
+- Gerenciamento de disciplinas e turmas
+- Estruturação inicial do banco de questões
+- Desenvolvimento das primeiras interfaces da plataforma
+- Integração inicial entre frontend e banco de dados
 
 ---
 
-## Sprint 4 – Análise e Resultados
+## Sprint 4 – Ajustes e Finalização da Documentação
 
 ### Objetivo
-Implementar funcionalidades de análise e finalizar a documentação.
+Realizar ajustes finais na plataforma e concluir a documentação do projeto.
 
 ### Atividades
-- Correção automática
-- Histórico de simulados
-- Relatórios de desempenho
-- Dashboards de indicadores
-- Finalização da documentação
+- Ajustes no frontend da aplicação
+- Refinamento das interfaces do sistema
+- Continuação da integração das funcionalidades
+- Validação da modelagem do sistema
+- Revisão da documentação do projeto
+- Organização final das entregas do PIM III
 
 ---
 
@@ -167,8 +171,8 @@ O quadro do Trello foi organizado com as seguintes listas:
 | Product Backlog | Funcionalidades e atividades gerais |
 | Sprint 1 | Estrutura inicial do projeto |
 | Sprint 2 | Modelagem e diagramas |
-| Sprint 3 | Desenvolvimento das funcionalidades |
-| Sprint 4 | Finalização das funcionalidades e documentação |
+| Sprint 3 | Desenvolvimento inicial da plataforma |
+| Sprint 4 | Ajustes finais e documentação |
 | Em Desenvolvimento | Atividades em execução |
 | Em Revisão | Atividades em validação |
 | Concluído | Atividades finalizadas |
