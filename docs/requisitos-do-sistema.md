@@ -1,6 +1,6 @@
 # ⚙️ Requisitos do Sistema – Avalia+
 
----
+--- 
 
 ## 1. Requisitos Funcionais
 
